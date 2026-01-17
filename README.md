@@ -16,7 +16,7 @@ Real-time web game using Socket.io and Pug, built with a modular MVC setup.
 Log, view, and filter bird-sightings with map integration and user authentication. Built with Swift and Firebase.
 
 🚀 Technologies I Work With :  
-C#/Razor • Java • JavaScript • Node.js • Firebase • SQL • .NET • Swift
+C#/Razor • Java • JavaScript • Umbraco • Node.js • Firebase • SQL • .NET • Swift
 Git • HTML/CSS • Figma • Agile/Scrum
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hansemansen&layout=compact&theme=radical)
